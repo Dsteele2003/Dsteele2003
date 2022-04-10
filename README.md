@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dsteele2003
 - 👀 I’m interested in learning as much as I can and innovating both for myself and my company.
-- 🌱 I’m currently learning (HBAP program) evolving knowledge on SQL, Python, AI and ML
+- 🌱 I’m currently learning & evolving knowledge on Python, AI and ML, DevOps, Cloud Tech and Automation.
 - 💞️ I’m looking to collaborate on all sorts of projects
 - 📫 How to reach me: Dsteele2003@gmail.com. No sales or solicitations, please.
 
